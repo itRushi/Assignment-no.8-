@@ -26,6 +26,12 @@ An interactive React-based educational game that helps users improve their gramm
 
 
 ## 🖼 live Screenshots and video 
+![6 ](https://github.com/user-attachments/assets/e3645478-a5a3-40cd-bcf6-5c0a147399b6)
+![5 ](https://github.com/user-attachments/assets/8fd8a22b-768f-4cf8-8f54-3c57b93af7bd)
+![4 ](https://github.com/user-attachments/assets/5ec9e0da-2a6a-45f7-9d62-6d8fcf6661e0)
+![3 ](https://github.com/user-attachments/assets/b70184c0-5248-4ba1-8fc0-2efc9353d567)
+![2 ](https://github.com/user-attachments/assets/cdf00ff0-e6e3-43f6-9a56-c8778d43a084)
+![1 ](https://github.com/user-attachments/assets/e493ef9e-63ee-4daf-b89e-912f036f7a25)
 
 
 
